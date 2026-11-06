@@ -279,7 +279,7 @@
 
 '---- 2026.11.6 ----  commit message は以下の "0 2026.10.30 3901 山田花子 "  に従ってください。 カーソル行を削除 Ctrl + Shift + K（Macは Cmd + Shift + K） 画面キャプチャ　Win + Shift + S	　Macbook = Command + Shift + S -----------
 
-0 000 111 ccc ddd eee fff ggg hhh iii jjj kkk lll　https://github.com/std-takayama/AP2026/compare/082fe16..7152b3c
+0
 
 1
 
@@ -293,7 +293,7 @@
 
 6
 
-7
+7 2026.11.6 3401 明野雷　数値の切り上げの簡単なやり方を知った
 
 8
 
