@@ -279,7 +279,7 @@
 
 '---- 2026.11.6 ----  commit message は以下の "0 2026.10.30 3901 山田花子 "  に従ってください。 カーソル行を削除 Ctrl + Shift + K（Macは Cmd + Shift + K） 画面キャプチャ　Win + Shift + S	　Macbook = Command + Shift + S -----------
 
-0 000 111 ccc ddd eee fff ggg hhh iii jjj kkk lll　https://github.com/std-takayama/AP2026/compare/082fe16..7152b3c
+0 000 111 ccc ddd eee fff ggg hhh iii jjj kkk lll
 
 1
 
@@ -297,7 +297,7 @@
 
 8
 
-9
+9 2026/11/06 3427 冨樫隼哉　今日はAIに助けてもらいながらCランク問題をといた。二つ前の記録が何度やっても消えてしまうのでぎっとはぶは好きになれません。
 
 10
 
